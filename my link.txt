@@ -1,1 +1,1 @@
-<a>www.google.com</a>
+www.google.com
